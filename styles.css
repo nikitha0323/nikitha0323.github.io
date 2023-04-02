@@ -12,7 +12,11 @@ body {
 .assignment img {
     width:400px;
     margin: 10px;
-    border:6px solid #800080;
+    border:6px dashed #800080;
+}
+
+.assignment img:hover {
+    border:6px solid black;
 }
 h1 {
     color: darkorchid;
@@ -22,4 +26,8 @@ h1 {
 a {
     text-decoration:none; 
     color:#DDA0DD;
+}
+
+a:hover {
+    color:black;
 }
