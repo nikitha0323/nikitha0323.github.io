@@ -8,6 +8,7 @@ body {
     padding:10px;
     margin:10px;
     background-color: #DB7093;
+    border-radius: 30px;
 }
 .assignment img {
     width:400px;
