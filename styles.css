@@ -11,7 +11,8 @@ body {
 }
 .assignment img {
     width:400px;
-    padding:10px;
+    margin: 10px;
+    border:6px solid #800080;
 }
 h1 {
     color: darkorchid;
