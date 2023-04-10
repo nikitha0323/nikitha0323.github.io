@@ -4,10 +4,11 @@ body {
 }
 .assignments {
     display:flex;
+    flex-wrap:wrap;
 }
 
-
 .assignment {
+    width:10%;
     padding:10px;
     margin:10px;
     background-color: #DB7093;
