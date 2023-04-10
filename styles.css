@@ -18,6 +18,8 @@ body {
     width:400px;
     margin: 10px;
     border:6px dashed #800080;
+    display:block;
+    margin:auto;
 }
 
 .assignment img:hover {
@@ -33,6 +35,9 @@ a {
     color:#DDA0DD;
 }
 
+a:hover {
+    color:black;
+}
 a:hover {
     color:black;
 }
