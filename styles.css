@@ -2,6 +2,10 @@ body {
     background:#FFFFF0;
     font-family:Arial, Helvetica, sans-serif;
 }
+.assignments {
+    display:flex;
+}
+
 
 .assignment {
     padding:10px;
