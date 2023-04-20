@@ -9,7 +9,7 @@ body {
 
 .assignment {
     width:30%;
-    padding:10px;
+    padding:5px;
     margin:30px;
     padding:25px 25px;
     background-color: #DB7093;
@@ -18,7 +18,7 @@ body {
 .assignment img {
     width:200px;
     margin: 10px;
-    border:2px dashed #800080;
+    border:6px dashed #800080;
     display:block;
     margin:auto;
 }
