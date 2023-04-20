@@ -18,7 +18,7 @@ body {
 .assignment img {
     width:200px;
     margin: 10px;
-    border:6px dashed #800080;
+    border:2px dashed #800080;
     display:block;
     margin:auto;
 }
